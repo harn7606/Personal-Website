@@ -8,4 +8,4 @@ experience with both HTML and CSS.
 I began my project with an index page to introduce myself. I then added a 
 navigation bar at the top with links to different sections: 'resume.
 html', 'projects.html', and 'fun.html'. The assignment was flexible, 
-allowing us to personalize the design and content. I used CSS to add various design elements such as images, custom text styles, and color themes. You can visit the website by entering 'harn7606.github.io' in your browser's address bar.
+allowing us to personalize the design and content. I used CSS to add various design elements such as images, custom text styles, and color themes. You can visit the website by entering 'harn7606/PersonalWebsite' in your browser's address bar.
